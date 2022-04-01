@@ -33,8 +33,11 @@
  #### -- What are the Peak hours(time of the day) in the shop?
  #### -- What are the top 10 selling products and there share (in %) in sales.
 
- ## Libraries/modules used in the project 
+ ## Libraries/modules used in the project
+ 
+ #### Handling data
  - Pandas 
- - Matplotlib 
  - numpy
+ #### For visualization
+ - Matplotlib 
  - Seaborn 
