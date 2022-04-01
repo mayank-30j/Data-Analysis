@@ -9,4 +9,4 @@ I uploaded these projects to share my knowlege with others and gain some from th
 Many of these projects are written up on my blog as well
 
 visit my website for more such content: 
-[geekyanalyst.epizy.com](geekyanalyst.epizy.com)
+[geekyanalyst.epizy.com](http://www.geekyanalyst.epizy.com/)
